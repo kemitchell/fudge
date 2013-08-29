@@ -1,0 +1,19 @@
+{
+"name": "sweets-fudge",
+"version": "0.0.1",
+"description": "Sweets's cache module",
+"keywords": ["future", "web", "framework", "sweets", "cache"],
+"author": "Yaroslav Kravchenko",
+"preferGlobal": false,
+"engines": {
+"node": "~0.10.15"
+},
+"repository": {
+"type": "git",
+"url": "git@github.com:swts/fudge.git"
+},
+"directories": {
+"lib": "./lib"
+},
+"main": "./lib/index"
+}
