@@ -1,6 +1,6 @@
-# Sweets-Fudle
+# Sweets-Fudge
 
-In-memory cache module for Sweets framework with namespace support
+In-memory cache Sweets framework module with namespace support and no dependencies required.
 
 ## API
 
