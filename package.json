@@ -5,6 +5,7 @@
 "keywords": ["future", "web", "framework", "sweets", "cache"],
 "author": "Yaroslav Kravchenko",
 "preferGlobal": false,
+"license" : "GPLv3",
 "engines": {
 "node": "~0.10.15"
 },
