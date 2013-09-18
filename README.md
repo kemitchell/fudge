@@ -1,10 +1,13 @@
-# Sweets-Fudge
 
-In-memory cache Sweets framework module with namespace support and no dependencies required.
 
-## API
+# Sweets
+Next Web builder toolkit
 
-### FudgeFactory
+## In-memory cache Sweets framework module with namespace support and no dependencies required.
+
+### API
+
+#### FudgeFactory
 
 Factory which provides cache instance for defined namespace.
 
@@ -15,7 +18,7 @@ Methods:
         * ns - namespace
     * returns Fudge class
 
-### Fudge
+#### Fudge
 
 Cache itself
 
