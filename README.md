@@ -34,7 +34,7 @@ Methods:
 * get(key) - return value for specified key
     * arguments
         * key - key
-    * returns data if it exists in cache and didn't expire, otherwise return false
+    * returns data if it exists in cache and didn't expire, otherwise returns false
 
 * del(key) - deletes value for specified key
     * arguments
