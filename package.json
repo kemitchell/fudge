@@ -1,20 +1,21 @@
 {
-"name": "sweets-fudge",
-"version": "0.0.1",
-"description": "Sweets's cache module",
-"keywords": ["future", "web", "framework", "sweets", "cache"],
-"author": "Yaroslav Kravchenko",
-"preferGlobal": false,
-"license" : "GPLv3",
-"engines": {
-"node": "~0.10.15"
-},
-"repository": {
-"type": "git",
-"url": "git@github.com:swts/fudge.git"
-},
-"directories": {
-"lib": "./lib"
-},
-"main": "./lib/index"
+	"name": "sweets-fudge",
+	"version": "0.0.2",
+	"description": "Sweets's cache module",
+	"keywords": ["future", "web", "framework", "sweets", "cache"],
+	"author": "Yaroslav Kravchenko",
+	"preferGlobal": false,
+	"license" : "GPLv3",
+	"engines": {
+		"node": "~0.12.0",
+	    "iojs": "^1.5.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:swts/fudge.git"
+	},
+	"directories": {
+		"lib": "./lib"
+	},
+	"main": "./lib/index"
 }
